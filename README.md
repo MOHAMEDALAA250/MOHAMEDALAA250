@@ -1,53 +1,59 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F57C00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+👋;I'm+Mohamed+Alaa+💻;Back-End+Developer+in+the+making!" alt="Typing SVG" />
-</h1>
-
----
+<h1 align="center">Hey there, I'm Mohamed Alaa 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4DB6AC,100:00796B&height=100&section=header&text=MOHAMED%20ALAA&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Backend+Developer+in+the+making...;Learning+ASP.NET+%26+C%23+with+Route+Academy"/>
 </p>
 
 ---
 
-## 🧠 About Me
+### 👨‍💻 About Me
 
-- 🎓 Computer Science student @ Zagazig University  
-- 👨‍💻 Learning ASP.NET in the .NET Track @ Route Academy  
-- 🧠 Background in C++ & OOP concepts  
-- 🚀 Interested in building scalable back-end systems  
-- 🧱 Starting with GitHub & real-world projects  
-
----
-
-## 🚧 Currently Working On
-
-- ✅ C# Basics & Object-Oriented Programming  
-- ✅ SQL Server & Database Design  
-- 🔄 Uploading assignments with Git & GitHub  
-- 🧪 Practicing clean and modular code  
+- 🎓 Computer Science Student at **Zagazig University**
+- 🧠 Solid foundation in **C++** and **Object-Oriented Programming (OOP)**
+- 🚀 Currently studying **ASP.NET** backend development with **Route Academy**
+- 📚 Passionate about building full backend projects and improving my skills every day
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tools & Technologies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=csharp,dotnet,cpp,git,github,vscode,visualstudio,sql" />
 </p>
 
 ---
 
-## 📫 Contact Me
+### 📈 My GitHub Stats
 
-- 📧 Email: mohamednalaa12@gmail.com  
-- 🧑‍💻 GitHub: [MOHAMEDALAA250](https://github.com/MOHAMEDALAA250)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MOHAMEDALAA250&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDALAA250&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+### 📜 Little Touch of Code That Reflects Me
+
+```dart
+class MohamedAlaa {
+  final String university = 'Zagazig University';
+  final List<String> skills = ['C++', 'OOP', 'C#', 'ASP.NET'];
+  final bool lovesLearning = true;
+
+  void dream() => print("I want to be a great Backend Developer!");
+}
+```
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: mohamednalaa12@gmail.com
+- 🐙 GitHub: [MOHAMEDALAA250](https://github.com/MOHAMEDALAA250)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MOHAMEDALAA250&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  ⚡ Keep pushing code and learning every single day ⚡
 </p>
+
